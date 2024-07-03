@@ -30,3 +30,4 @@ examples/*/*.tar.gz
 
 .idea
 report/*
+.pytest_cache/*
